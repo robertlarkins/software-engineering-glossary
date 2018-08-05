@@ -5,3 +5,19 @@ https://stackoverflow.com/questions/32290879/meanings-of-declaring-instantiating
 
 Minimal Working Example:
 https://en.wikipedia.org/wiki/Minimal_Working_Example
+
+## Code structure C#
+
+### Methods
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods
+https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html
+
+Signature
+
+- access modifier
+- return type
+- name
+- parameters
+
+Body
+
