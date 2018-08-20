@@ -17,7 +17,7 @@ Signature
 - access modifier
 - return type
 - name
-- parameters
+- parameters (arguments)
 
 Body
 
