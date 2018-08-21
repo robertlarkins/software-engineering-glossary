@@ -3,6 +3,8 @@
 ## Principles
 
  - Separation of Concerns
+ 
+ - You aren't gonna need it (YAGNI)
 
 ## Patterns
 
