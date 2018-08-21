@@ -6,3 +6,5 @@
 
 ## Patterns
 
+ - Special Case Pattern
+ https://martinfowler.com/eaaCatalog/specialCase.html
