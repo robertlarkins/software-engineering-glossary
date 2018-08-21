@@ -40,6 +40,7 @@ aim is it take out the feature without breaking other functionality.  if another
  
 ## Testing Types
 
+https://softwareengineering.stackexchange.com/a/223994/249282
 https://www.softwaretestinghelp.com/types-of-software-testing/
 
  - Smoke testing
