@@ -7,6 +7,8 @@
 ## Testing Layers
 
  - Unit testing (Micro testing)
+ Unit testing (especially TDD) does three things: reduces bugs, provides living documentation, and works as a code design tool by making the developer think about code structure.
+ Unit tests do not find bugs that aren't accounted for, nor will they find bugs that result from how different units interact (this is the domain of integration testing). They are good at defining how code should behave, and confirming that it does behave this way. And if the coverage is sufficient, it is also good at detecting regressions from code refactoring.
  
  - Integration testing
  
