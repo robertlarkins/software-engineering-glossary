@@ -12,6 +12,10 @@ https://docs.microsoft.com/en-us/visualstudio/test/unit-test-basics
  Unit testing (especially TDD) does three things: reduces bugs, provides living documentation, and works as a code design tool by making the developer think about code structure.
  Unit tests do not find bugs that aren't accounted for, nor will they find bugs that result from how different units interact (this is the domain of integration testing). They are good at defining how code should behave, and confirming that it does behave this way. And if the coverage is sufficient, it is also good at detecting regressions from code refactoring.
  
+Does it also provide a specification of the code? http://wiki.c2.com/?TheUnitTestIsTheSpecification
+ 
+https://dzone.com/articles/top-8-benefits-of-unit-testing
+ 
  - Integration testing
  
  - System testing
