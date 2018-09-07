@@ -13,3 +13,8 @@ The code classes should reflect real world objects for that domain. That is, eac
 
  - Special Case Pattern
  https://martinfowler.com/eaaCatalog/specialCase.html
+
+
+## Inheritance and Polymorphism
+
+https://www.infoworld.com/article/3024718/application-development/how-to-implement-polymorphism-in-c.html
