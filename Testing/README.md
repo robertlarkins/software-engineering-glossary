@@ -66,3 +66,10 @@ https://www.softwaretestinghelp.com/types-of-software-testing/
  - Stress testing
  
  - System testing
+
+ - Characterisation
+   - https://michaelfeathers.silvrback.com/characterization-testing
+   - http://radify.io/blog/characterisation-tests/
+   - http://wiki.c2.com/?CharacterizationTest
+   - https://en.wikipedia.org/wiki/Characterization_test
+   - https://daedtech.com/characterization-tests/
