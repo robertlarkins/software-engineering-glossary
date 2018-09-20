@@ -26,7 +26,6 @@ https://docs.microsoft.com/en-us/dotnet/api/system.type.isprimitive?view=netfram
 https://medium.com/omarelgabrys-blog/primitive-data-types-in-c-vs-java-5b8a597eef05
 https://www.programiz.com/csharp-programming/variables-primitive-data-types
 
-
 ### Value
 A value type is a type that holds values rather than being a reference type. They are either stack-allocated or allocated inline in a structure.
 
@@ -51,3 +50,13 @@ https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/value
 
 ## Reference
 Reference types are heap-allocated.
+
+## Constants
+
+
+## Literals
+A _literal_ is a source code representation of a value. That is, any text that represents a specific value, such as `true`, `10`, `'c'`, `"hello"` and `null`
+
+See:
+ - [C# Standard 7.4.5.1](https://www.ecma-international.org/publications/standards/Ecma-334.htm)
+ - https://stackoverflow.com/questions/2066035/in-c-sharp-are-the-terms-primitive-and-literal-interchangeable/2135136#2135136
