@@ -1,7 +1,7 @@
 # Types
 
-## Primitive
-Primitive data types are value types that are built into the C# language.
+## Primitive or Simple
+Primitive data types, also known as simple data types in C#, are value types that are built into the C# language.
 
 A type can be checked to see if it is primitive by calling its `IsPrimitive` property. For example `typeof(double).IsPrimitive` will return true, while .
 
@@ -37,6 +37,8 @@ However, `ValueType` can be used in code for parameter restrictions or checking 
 e.g.: `typeof(double).IsValueType`
 
 https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/value-types
+https://medium.com/omarelgabrys-blog/understanding-data-types-in-c-7ccf4547d639
+https://github.com/dotnet/docs/issues/7792
 
 #### Double
 
