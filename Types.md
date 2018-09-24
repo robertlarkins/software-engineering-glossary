@@ -22,6 +22,7 @@ In C# the primitive types are:
 
 https://docs.microsoft.com/en-us/dotnet/api/system.type.isprimitiveimpl?redirectedfrom=MSDN&view=netframework-4.7.2#System_Type_IsPrimitiveImpl
 https://docs.microsoft.com/en-us/dotnet/api/system.type.isprimitive?view=netframework-4.7.2
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/built-in-types-table - gives list of simple types.
 
 https://medium.com/omarelgabrys-blog/primitive-data-types-in-c-vs-java-5b8a597eef05
 https://www.programiz.com/csharp-programming/variables-primitive-data-types
@@ -40,13 +41,21 @@ https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/value
 https://medium.com/omarelgabrys-blog/understanding-data-types-in-c-7ccf4547d639
 https://github.com/dotnet/docs/issues/7792
 
-#### Double
+#### Integrals
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/integral-types-table
 
-#### Float
+#### Floating-Point
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/floating-point-types-table
 
-#### Int
+#### Boolean
 
-#### Byte
+#### Char
+
+#### Enum
+https://stackoverflow.com/questions/14561338/enum-is-reference-type-or-value-type
+
+#### Struct
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/structs
 
 ### String
 
