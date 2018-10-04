@@ -67,3 +67,9 @@ Body
  - Interning
    - https://blogs.msdn.microsoft.com/ericlippert/2009/09/28/string-interning-and-string-empty/
    - https://www.c-sharpcorner.com/UploadFile/d551d3/what-is-string-interning/
+ - Class Members
+   - Fields
+   - Properties
+   - Event handlers
+   - Methods
+   - anything else?
