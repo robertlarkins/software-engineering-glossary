@@ -73,3 +73,4 @@ Body
    - Event handlers
    - Methods
    - anything else?
+ - Encapsulation
