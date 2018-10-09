@@ -66,6 +66,7 @@ https://www.softwaretestinghelp.com/types-of-software-testing/
  - Stress testing
  
  - System testing
+   - https://www.softwaretestingclass.com/difference-between-system-testing-vs-integration-testing/
 
  - Characterisation
    - https://michaelfeathers.silvrback.com/characterization-testing
