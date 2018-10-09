@@ -67,6 +67,7 @@ https://www.softwaretestinghelp.com/types-of-software-testing/
  
  - System testing
    - https://www.softwaretestingclass.com/difference-between-system-testing-vs-integration-testing/
+   - https://tfortesting.wordpress.com/2013/10/26/difference-between-system-testing-and-system-integration-testing/
 
  - Characterisation
    - https://michaelfeathers.silvrback.com/characterization-testing
