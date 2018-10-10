@@ -62,6 +62,12 @@ https://www.softwaretestinghelp.com/types-of-software-testing/
  - A/B testing
  
  - Acceptance testing
+   - http://www.extremeprogramming.org/rules/functionaltests.html
+   - http://wiki.c2.com/?AcceptanceTest
+   - http://wiki.c2.com/?FunctionalTest
+ 
+ - Integration
+   - http://wiki.c2.com/?IntegrationTest
  
  - Stress testing
  
