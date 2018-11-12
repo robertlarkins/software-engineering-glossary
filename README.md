@@ -13,12 +13,19 @@ https://en.wikipedia.org/wiki/Minimal_Working_Example
 Inheritance Hierachy - The total chain of inheritance between the most base class and the most derived class. The root (or base) of the hierarchy is the Object class.
 https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/inheritance
 
-Subclass
-Superclass
-Extends, Derives, Implements, Child of, parent, 
+Subclass (the child class)
+Superclass (the parent class)
+
+ - Extends, Derives, Inherits - Terms for how a child class relates to a parent class (concrete or abstract), or a child interface relates to a parent interface.
+ - Implements - Term for how a concrete or abstract class relates to an interface. These classes provide an implementation for members defined in the interface.
+ - Overrides - Provides a new implementation for an existing method implementation (using `new`) or virtual method.
+
 
 inheritance is transitive
 
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/abstract-and-sealed-classes-and-class-members
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual
 
 #### Covariances and Contravariance
 
