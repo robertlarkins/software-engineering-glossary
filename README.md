@@ -68,6 +68,10 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-str
 
 Body
 
+# General Terms to Add
+
+ - The term for a line of code, is it Operation, Statement, Expression?
+
 # Terms to Add
  - Parsing
  - Santising
