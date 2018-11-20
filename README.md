@@ -85,3 +85,9 @@ Body
    - Methods
    - anything else?
  - Encapsulation
+
+### Strings
+
+Verbatim string
+String Literal
+Interpolated String
