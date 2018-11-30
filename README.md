@@ -94,6 +94,6 @@ Interpolated String
 
 ### Code Presentation
 
- - Prettify
+ - Prettify - Split the code across multiple lines to make it more human readable.
  - Minify
  - 
