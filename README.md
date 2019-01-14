@@ -12,7 +12,7 @@ https://stackoverflow.com/questions/32290879/meanings-of-declaring-instantiating
    
    Note: in C# with will cause a compile time error if `x` is used without being assigned. Or it could be that it can be declared but will only error if it is used without being assigned.
  
- - Assign
+ - Assign (or Set?)
  
    Provide a variable with a value.
    
