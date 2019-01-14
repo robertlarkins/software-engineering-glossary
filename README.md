@@ -2,6 +2,48 @@
 A glossary of terms used in software engineering
 
 https://stackoverflow.com/questions/32290879/meanings-of-declaring-instantiating-initializing-and-assigning-an-object
+ - Declare
+ 
+   Introduce a new variable with a type and a name:
+   
+   ```C#
+   int x;
+   ```
+   
+   Note: in C# with will cause a compile time error if `x` is used without being assigned. Or it could be that it can be declared but will only error if it is used without being assigned.
+ 
+ - Assign
+ 
+   Provide a variable with a value.
+   
+   ```C#
+   int x; // Declare x
+   x = 5; // Assign 5 to x
+   ```
+   
+ - Instantiate
+ 
+   Create a new instance of a class
+   
+   ```C#
+   var myObject = new MyObject();
+   ```
+   
+   is this also instantiation?:
+   
+   ```C#
+   MyObject myObject; // Declare myObject
+   myObject = new MyObject(); // Instantiate myObject with a new MyObject instance
+   ```
+ 
+ - Initialise
+ 
+   Declare a variable and assign a value to it
+   
+   ```C#
+   int x = 5
+   ```
+
 
 Minimal Working Example:
 https://en.wikipedia.org/wiki/Minimal_Working_Example
