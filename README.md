@@ -96,6 +96,16 @@ Incidentally, a property of type T could not be used in either interfaces, as it
 
 Building on this, with covariance, a derived class can be used instead of the base class (a child can be used where a parent is specified; think liskov substitution in SOLID). Where as, with contravariance, a base class can be used instead of the derived class; so in the case of a Comparer, the base class's comparer is used to compare instances of the derived class. This is possible because the derived class has all the members of the base class to allow the base class comparer to work.
 
+### Composition
+
+Prefer composition over inheritance.
+
+ - https://scottlilly.com/c-design-patterns-composition-over-inheritance/
+ - https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205
+ - https://stackoverflow.com/questions/49002/prefer-composition-over-inheritance
+ - https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose
+
+
 ### Methods
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods
 https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html
