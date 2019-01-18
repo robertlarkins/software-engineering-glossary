@@ -149,3 +149,7 @@ Interpolated String
  - Prettify - Split the code across multiple lines to make it more human readable.
  - Minify
  - 
+
+### Code Metrics
+
+ - https://docs.microsoft.com/en-us/visualstudio/code-quality/code-metrics-values?view=vs-2017
