@@ -17,6 +17,7 @@ Does it also provide a specification of the code? http://wiki.c2.com/?TheUnitTes
 https://dzone.com/articles/top-8-benefits-of-unit-testing
  
  - Integration testing
+ https://stackoverflow.com/questions/20265369/how-to-do-integration-testing-in-net-with-real-files
  
  - System testing
  
