@@ -82,3 +82,7 @@ https://www.softwaretestinghelp.com/types-of-software-testing/
    - http://wiki.c2.com/?CharacterizationTest
    - https://en.wikipedia.org/wiki/Characterization_test
    - https://daedtech.com/characterization-tests/
+
+- Load Testing (https://freeonlineloadtest.com/)
+  - Stress testing - Attempts to find the maximum load a system can take before degrading.
+  - Soak testing - Measures whether a system can handle a sustained load over a period of time.
