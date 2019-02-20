@@ -10,6 +10,14 @@ The code classes should reflect real world objects for that domain. That is, eac
  - You aren't gonna need it (YAGNI)
 
  - Law of Demeter (Principle of least knowledge)
+ 
+ - Don't repeat yourself (DRY)
+ 
+ - Conway's Law
+ 
+ - Levels of Abstraction
+ 
+ - Consistency
 
 ### SOLID
 
