@@ -123,6 +123,11 @@ Body
 # General Terms to Add
 
  - The term for a line of code, is it Operation, Statement, Expression?
+ - Side Effect
+   - https://en.wikipedia.org/wiki/Side_effect_(computer_science)
+   - https://weblogs.asp.net/dixin/functional-csharp-pure-function
+   - https://davesquared.net/2013/04/side-effect-free-csharp.html
+   - https://docs.microsoft.com/en-us/cpp/c-language/side-effects?view=vs-2017
 
 # Terms to Add
  - Parsing
