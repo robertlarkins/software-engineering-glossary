@@ -142,6 +142,10 @@ Body
    - Methods
    - anything else?
  - Encapsulation
+ - Debugging
+   - Replicate or reproduce issue
+   - Intermittant issue
+   
 
 ### Strings
 
