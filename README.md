@@ -145,7 +145,12 @@ Body
  - Debugging
    - Replicate or reproduce issue
    - Intermittant issue
-   
+ - Connascence - https://connascence.io/
+ - SeedWork
+   - https://martinfowler.com/bliki/Seedwork.html
+   - https://maetl.net/frameworks-and-seedworks
+   - https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/seedwork-domain-model-base-classes-interfaces
+   - https://www.artima.com/forums/flat.jsp?forum=106&thread=8826&start=0&msRange=16
 
 ### Strings
 
