@@ -166,4 +166,7 @@ Interpolated String
 
 ### Code Metrics
 
+These provide a way of measuring the quality of the code in terms of readability and maintainability.
+ - Cyclomatic Complexity
+ - Connascence - https://connascence.io/
  - https://docs.microsoft.com/en-us/visualstudio/code-quality/code-metrics-values?view=vs-2017
