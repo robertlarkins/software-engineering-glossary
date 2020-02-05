@@ -151,6 +151,7 @@ Body
    - https://maetl.net/frameworks-and-seedworks
    - https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/seedwork-domain-model-base-classes-interfaces
    - https://www.artima.com/forums/flat.jsp?forum=106&thread=8826&start=0&msRange=16
+ - Conditional *or* Conditional statement: A conditional statement is when we want to execute a certain action depending upon an available condition.
 
 ### Strings
 
