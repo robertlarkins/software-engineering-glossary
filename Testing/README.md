@@ -92,3 +92,10 @@ https://www.softwaretestinghelp.com/types-of-software-testing/
 - Load Testing (https://freeonlineloadtest.com/)
   - Stress testing - Attempts to find the maximum load a system can take before degrading.
   - Soak testing - Measures whether a system can handle a sustained load over a period of time.
+
+## Approaches for Testing
+
+### Sprout Methods
+A way for adding new code to a legacy system, but making the code testable.
+
+http://taswar.zeytinsoft.com/learn-the-sprout-method-for-adding-new-functionality/
