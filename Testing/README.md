@@ -65,6 +65,8 @@ https://www.softwaretestinghelp.com/types-of-software-testing/
  - Sanity testing
  
  - Regression testing
+   A regression is a type of bug where some functionality was working before is no longer working now.
+   https://en.wikipedia.org/wiki/Software_regression
  
  - A/B testing
  
