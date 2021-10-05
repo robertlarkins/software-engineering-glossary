@@ -154,7 +154,7 @@ Body
  - Conditional *or* Conditional statement: A conditional statement is when we want to execute a certain action depending upon an available condition.
  - Convention (such as Layout Convention or Naming Convention) - The approach recommended for this language or environment.
  - Compiled vs interpreted code
- 
+ - Scope - https://en.wikipedia.org/wiki/Scope_(computer_science)
 
 ### Strings
 
