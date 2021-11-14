@@ -1,6 +1,7 @@
 # Industry Acronyms
 
 CLR - Common Language Runtime  
+CORS - Cross-Origin Resource Sharing  
 JIT - Just In Time  
 MSIL - Microsoft Intermediate Language (often shortened to IL)  
 NFR - Non-Functional Requirement  
