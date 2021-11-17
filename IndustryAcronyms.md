@@ -8,3 +8,7 @@ MSIL - Microsoft Intermediate Language (often shortened to IL)
 NFR - Non-Functional Requirement  
 REST - REpresentational State Transfer
 UAT - User Acceptance Testing  
+
+## Software System Types
+ERP - [Enterprise Resource Planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning)  
+SAAS - [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)  
