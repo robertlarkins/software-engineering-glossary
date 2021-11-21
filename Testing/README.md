@@ -58,19 +58,19 @@ https://codurance.com/2015/05/12/does-tdd-lead-to-good-design/
 https://softwareengineering.stackexchange.com/a/223994/249282
 https://www.softwaretestinghelp.com/types-of-software-testing/
 
- - Smoke testing
+ - Smoke
    
    http://softwaretestingfundamentals.com/smoke-testing/
  
- - Sanity testing
+ - Sanity
  
- - Regression testing
+ - Regression
    A regression is a type of bug where some functionality was working before is no longer working now.
    https://en.wikipedia.org/wiki/Software_regression
  
- - A/B testing
+ - A/B
  
- - Acceptance testing
+ - Acceptance
    - http://www.extremeprogramming.org/rules/functionaltests.html
    - http://wiki.c2.com/?AcceptanceTest
    - http://wiki.c2.com/?FunctionalTest
@@ -78,9 +78,9 @@ https://www.softwaretestinghelp.com/types-of-software-testing/
  - Integration
    - http://wiki.c2.com/?IntegrationTest
  
- - Stress testing
+ - Stress
  
- - System testing
+ - System
    - https://www.softwaretestingclass.com/difference-between-system-testing-vs-integration-testing/
    - https://tfortesting.wordpress.com/2013/10/26/difference-between-system-testing-and-system-integration-testing/
 
@@ -91,9 +91,49 @@ https://www.softwaretestinghelp.com/types-of-software-testing/
    - https://en.wikipedia.org/wiki/Characterization_test
    - https://daedtech.com/characterization-tests/
 
-- Load Testing (https://freeonlineloadtest.com/)
-  - Stress testing - Attempts to find the maximum load a system can take before degrading.
-  - Soak testing - Measures whether a system can handle a sustained load over a period of time.
+- Performance
+  - Load (https://freeonlineloadtest.com/)
+    - Stress testing - Attempts to find the maximum load a system can take before degrading.
+    - Soak testing - Measures whether a system can handle a sustained load over a period of time.
+  - Latency
+
+- Exploratory/Manual
+- Install/Uninstall
+- Monkey
+  - https://en.wikipedia.org/wiki/Monkey_testing
+- Mutation
+
+- Security
+  - Vulnerability Assessment
+    - https://www.indusface.com/blog/what-is-vulnerability-testing/
+- White box
+- Black box
+- Component (Automated)
+- Contract
+- Alpha
+- Beta
+- Ad-hoc
+- Accessibility
+- Backend
+- Branch
+  - https://www.geeksforgeeks.org/branch-software-testing/
+- Comparison
+- Negative testing
+- Non-functional
+- Functional
+- Recovery
+- Volume
+- End-to-end / flow (automated)
+
+- UI
+  - Browser compatibility
+
+- Unit (of behaviour)  
+  This is preferred as this testing relates to business requirements rather than being coupled to implementation details  
+  (see Unit Testing - Principles, Practices, and Patterns by Vladimir Khorikov)
+  - Boundary value  
+    This will be determined by the business rules
+  
 
 ## Approaches for Testing
 
