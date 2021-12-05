@@ -5,7 +5,10 @@ https://docs.microsoft.com/en-us/visualstudio/test/unit-test-basics
  - Arrange, Act, Assert (AAA)
  
  - Mocks, Fakes, Spies
- 
+
+Articles:  
+- https://medium.com/prismapp/prisms-testing-pyramid-99aa6dcf471a
+
 ## Testing Layers
 
  - Unit testing (Micro testing)
