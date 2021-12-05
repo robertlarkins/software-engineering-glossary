@@ -124,9 +124,31 @@ https://www.softwaretestinghelp.com/types-of-software-testing/
 - Recovery
 - Volume
 - End-to-end / flow (automated)
+- Exhaustive
+- Dependency
+- Time zone
+- Gorilla
+- Compatibility
+- Component
+- End-to-end
+- Equivalence Partitioning
+- Example
+- Functional
 
 - UI
   - Browser compatibility
+  - Automated (Selenium)
+  - Usability
+  - Mobile
+- Happy Path
+- Incremental Integration
+- Risk-based
+- Security
+  - Penetration
+- Static
+- API
+  - Automated
+- Worflow
 
 - Unit (of behaviour)  
   This is preferred as this testing relates to business requirements rather than being coupled to implementation details  
