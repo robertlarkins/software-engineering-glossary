@@ -156,6 +156,8 @@ https://www.softwaretestinghelp.com/types-of-software-testing/
   - Boundary value  
     This will be determined by the business rules
   
+- Property
+- Random
 
 ## Approaches for Testing
 
