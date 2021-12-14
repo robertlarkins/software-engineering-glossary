@@ -172,3 +172,4 @@ http://taswar.zeytinsoft.com/learn-the-sprout-method-for-adding-new-functionalit
 ## Terms
 - Brittle - https://softwareengineering.stackexchange.com/questions/356236/definition-of-brittle-unit-tests
 - Flaky - https://whatis.techtarget.com/definition/flaky-test
+- Fragile
