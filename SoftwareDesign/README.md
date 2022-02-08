@@ -17,7 +17,7 @@ The code classes should reflect real world objects for that domain. That is, eac
 
  - Law of Demeter (Principle of least knowledge)
  
- - Don't repeat yourself (DRY)
+ - Don't repeat yourself (DRY) - One source of truth within the code.
  
  - Conway's Law
  
