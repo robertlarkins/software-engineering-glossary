@@ -20,9 +20,12 @@ In C# the primitive types are:
  - `double`
 
 
-https://docs.microsoft.com/en-us/dotnet/api/system.type.isprimitiveimpl?redirectedfrom=MSDN&view=netframework-4.7.2#System_Type_IsPrimitiveImpl
-https://docs.microsoft.com/en-us/dotnet/api/system.type.isprimitive?view=netframework-4.7.2
-https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/built-in-types-table - gives list of simple types.
+- https://docs.microsoft.com/en-us/dotnet/api/system.type.isprimitiveimpl?redirectedfrom=MSDN&view=netframework-4.7.2#System_Type_IsPrimitiveImpl
+- https://docs.microsoft.com/en-us/dotnet/api/system.type.isprimitive?view=netframework-4.7.2
+- https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/built-in-types-table - gives list of simple types.
+- https://docs.microsoft.com/en-us/dotnet/api/system.type.isprimitive?view=net-6.0#remarks
+- https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types#built-in-value-types
+- https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types
 
 https://medium.com/omarelgabrys-blog/primitive-data-types-in-c-vs-java-5b8a597eef05
 https://www.programiz.com/csharp-programming/variables-primitive-data-types
