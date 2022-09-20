@@ -155,6 +155,7 @@ Body
  - Convention (such as Layout Convention or Naming Convention) - The approach recommended for this language or environment.
  - Compiled vs interpreted code
  - Scope - https://en.wikipedia.org/wiki/Scope_(computer_science)
+ - Invariants - Something that does not change or vary. In software it is the logical rules that define how the system is expected to (and should) operate. That is, the code might change but the invariants or rules remain the same. - https://en.wikipedia.org/wiki/Invariant_(mathematics)#Invariants_in_computer_science
 
 ### Strings
 
