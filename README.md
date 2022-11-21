@@ -48,12 +48,14 @@ https://stackoverflow.com/questions/32290879/meanings-of-declaring-instantiating
 Minimal Working Example:
 https://en.wikipedia.org/wiki/Minimal_Working_Example
 
+
 ## Code structure C#
 
 ### Inheritance
 
 Inheritance Hierachy - The total chain of inheritance between the most base class and the most derived class. The root (or base) of the hierarchy is the Object class.
-https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/inheritance
+- https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/inheritance
+- https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance
 
 Subclass (the child class)
 Superclass (the parent class)
