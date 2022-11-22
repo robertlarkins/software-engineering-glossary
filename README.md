@@ -94,7 +94,7 @@ interface IContravariance<in T>
 ```
 
 This will have a compile time error on the `T` return from `CantOut` as the `in` on the generic type specified that this type can only be used as a method parameter; an example would be `IComparer`.
-Incidentally, a property of type T could not be used in either interfaces, as it both gets and sets T.
+Incidentally, a property like `public T MyProperty { get; set; }` could not be used in either interfaces, as it both gets and sets T.
 
 Building on this, with covariance, a derived class can be used instead of the base class (a child can be used where a parent is specified; think liskov substitution in SOLID). Where as, with contravariance, a base class can be used instead of the derived class; so in the case of a Comparer, the base class's comparer is used to compare instances of the derived class. This is possible because the derived class has all the members of the base class to allow the base class comparer to work.
 
