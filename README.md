@@ -53,12 +53,12 @@ https://en.wikipedia.org/wiki/Minimal_Working_Example
 
 ### Inheritance
 
-Inheritance Hierachy - The total chain of inheritance between the most base class and the most derived class. The root (or base) of the hierarchy is the Object class.
+Inheritance Hierachy - The total chain of inheritance between the most base class and the most derived class. In C# the root (or base) of the hierarchy is the Object class.
 - https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/inheritance
 - https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance
 
-Subclass (the child class)
-Superclass (the parent class)
+Subclass (the child class or derived class)  
+Superclass (the parent class or direct base class)
 
  - Extends, Derives, Inherits - Terms for how a child class relates to a parent class (concrete or abstract), or a child interface relates to a parent interface.
  - Implements - Term for how a concrete or abstract class relates to an interface. These classes provide an implementation for members defined in the interface.
