@@ -144,6 +144,10 @@ Body
    - Methods
    - anything else?
  - Encapsulation
+   - https://enterprisecraftsmanship.com/posts/encapsulation-revisited/
+   - https://enterprisecraftsmanship.com/posts/collections-primitive-obsession/
+   - https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
+ - Discoverability - How easy is a term, piece of code, or class to learn about or discover. The problem is if something isn't easy to discover or required to use, then other solutions will be created, causing duplication and further reducing discoverability of the preferred approach.
  - Debugging
    - Replicate or reproduce issue
    - Intermittant issue
@@ -158,6 +162,8 @@ Body
  - Compiled vs interpreted code
  - Scope - https://en.wikipedia.org/wiki/Scope_(computer_science)
  - Invariants - Something that does not change or vary. In software it is the logical rules that define how the system is expected to (and should) operate. That is, the code might change but the invariants or rules remain the same. The idea of invariants can be extended to the system. These are the behaviours we expect the system to exhibit. So rather than it being a lower lying technical expectation, of how, say a sorting algorithm is expected to operate, these are how a user expects the system operate for the given domain.  - https://en.wikipedia.org/wiki/Invariant_(mathematics)#Invariants_in_computer_science
+ - Immutable
+   - https://enterprisecraftsmanship.com/posts/law-of-demeter-and-immutability/
 
 ### Strings
 
