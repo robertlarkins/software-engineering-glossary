@@ -162,7 +162,7 @@ Body
  - Compiled vs interpreted code
  - Scope - https://en.wikipedia.org/wiki/Scope_(computer_science)
  - Invariants - Something that does not change or vary. In software it is the logical rules that define how the system is expected to (and should) operate. That is, the code might change but the invariants or rules remain the same. The idea of invariants can be extended to the system. These are the behaviours we expect the system to exhibit. So rather than it being a lower lying technical expectation, of how, say a sorting algorithm is expected to operate, these are how a user expects the system operate for the given domain.  - https://en.wikipedia.org/wiki/Invariant_(mathematics)#Invariants_in_computer_science
-   Invariants also apply to values (like an entity's id), if the system has the rule _an entity's id does not change_ then this an invariant - a rule that defines the system. Having certain values like `id` be immutable can be a condition or invariant of the system.
+   Invariants also apply to values (like an entity's id), if the system has the rule _an entity's id does not change_ then this an invariant - a rule that defines the system. Having certain values like `id` be immutable can be a condition or invariant of the system (eg: entities must have a stable and enduring identity).
  - Immutable
    - https://enterprisecraftsmanship.com/posts/law-of-demeter-and-immutability/
 
