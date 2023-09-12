@@ -10,3 +10,8 @@
  - REPL - read-eval-print loop - a simple interactve programming environment that takes user input, evaluates and executes it, and returns the result to the user.  
    an example of this is C# Interactive in Visual Studio (View > Other Windows > C# Interactive)
 
+
+## Coding Concepts
+ - Guard Clause - provides a way for a method to exist quickly (fail fast) if certain conditions aren't met. This approach helps keep code cleaner.
+   - https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html
+   - https://wiki.c2.com/?GuardClause
