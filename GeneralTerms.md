@@ -15,3 +15,9 @@
  - Guard Clause - provides a way for a method to exist quickly (fail fast) if certain conditions aren't met. This approach helps keep code cleaner.
    - https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html
    - https://wiki.c2.com/?GuardClause
+ - Call Chains
+   This is the different paths that a program can take to get to a point in code. Unsure whether this is the exact term, or other terms are more appropriate, for example:
+   - Execution Path
+   - Call Graph
+   - Call Tree
+   - Call Hierarchy
