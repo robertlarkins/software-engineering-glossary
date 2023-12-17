@@ -20,3 +20,16 @@ See:
 
 See:
 - https://en.wiktionary.org/wiki/bikeshedding#English
+
+
+# Ammusing Sayings
+
+- clone it and own it
+- commit it and quit it
+- grip it and rip it
+- send it and end it
+- approve it and move it
+- merge it and purge it
+- release it and cease it
+- deploy it and destroy it
+- get it and set it
