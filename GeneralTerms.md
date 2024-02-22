@@ -22,3 +22,11 @@
    - Call Tree
    - Call Hierarchy
    - Code Flow
+
+
+## Running Code
+
+- Instruction - An order given to a computer processor by a computer program. Traditionally an individual machine code instruction for a physical CPU. See: https://en.wikipedia.org/wiki/Execution_(computing)#Executable
+- Command - A directive (single word, line of code or series of insturctions) given to a computer program to perform a specific task. See: https://en.wikipedia.org/wiki/Command_(computing)
+- Execution - Run (execute) an instruction or command. See: https://en.wikipedia.org/wiki/Execution_(computing)
+- Statement - A command in a high level programming language that expands to multiple instructions in a low level programming language. See: https://en.wikipedia.org/wiki/Statement_(computer_science)
