@@ -1,8 +1,5 @@
 # Software Design
 
-Domain Driven Design
-The code classes should reflect real world objects for that domain. That is, each class should have a real world counterpart.
-
 ## Anti-Patterns
 
  - Postel's Law - also known as the *Robustness Principle*, was used when first developing Internet protocols, but should be avoided now in favour of stronger standards:
