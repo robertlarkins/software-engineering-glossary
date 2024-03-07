@@ -30,3 +30,11 @@
 - Command - A directive (single word, line of code or series of insturctions) given to a computer program to perform a specific task. See: https://en.wikipedia.org/wiki/Command_(computing)
 - Execution - Run (execute) an instruction or command. See: https://en.wikipedia.org/wiki/Execution_(computing)
 - Statement - A command in a high level programming language that expands to multiple instructions in a low level programming language. See: https://en.wikipedia.org/wiki/Statement_(computer_science)
+
+
+## Programming Paradigms
+
+- [Procedural programming](https://en.wikipedia.org/wiki/Procedural_programming)
+- Imperative programming
+- Object-oriented programming
+- Functional programming
