@@ -7,6 +7,7 @@ Small tasks that are or seem to be required before you can progress to the next 
 See:
 - https://www.techtarget.com/whatis/definition/yak-shaving
 - https://en.wiktionary.org/wiki/yak_shaving
+- https://www.hanselman.com/blog/yak-shaving-defined-ill-get-that-done-as-soon-as-i-shave-this-yak
 
 
 ## Dogfooding
