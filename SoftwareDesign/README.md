@@ -9,6 +9,7 @@
 ## Principles
 
  - Separation of Concerns
+   (This explanation needs more work) An area of code should not concern itself with another area of code (eg: concepts, domain, etc.) if it isn't relevant. For example, the repository layer should not know about nor return HTTP status codes, this is the responsibility/concern of the API layer.
  
  - You aren't gonna need it (YAGNI)
 
