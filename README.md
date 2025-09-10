@@ -166,6 +166,10 @@ Body
  - Immutable
    - https://enterprisecraftsmanship.com/posts/law-of-demeter-and-immutability/
 
+# Concepts (patterns, antipatterns, useful knowledge)
+- Diamond Dependency Conflict - https://jlbp.dev/what-is-a-diamond-dependency-conflict
+
+
 ### Strings
 
 Verbatim string
