@@ -41,8 +41,14 @@
 
 ## Patterns
 
- - Special Case Pattern
- https://martinfowler.com/eaaCatalog/specialCase.html
+- Special Case Pattern
+  https://martinfowler.com/eaaCatalog/specialCase.html
+
+- [Hyrum's Law](https://www.hyrumslaw.com/)
+  > With a sufficient number of users of an API, \
+    it does not matter what you promise in the contract: \
+    all observable behaviors of your system \
+    will be depended on by somebody.
 
 
 ## Inheritance and Polymorphism
